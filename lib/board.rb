@@ -1,1 +1,1 @@
-tic_tac_toe = "board"# Define the variable board below.
+board = "Tic Tac Toe"# Define the variable board below.
